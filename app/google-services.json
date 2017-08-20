@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "599625093912",
+    "firebase_url": "https://thelonelyexpat-75d55.firebaseio.com",
+    "project_id": "thelonelyexpat-75d55",
+    "storage_bucket": "thelonelyexpat-75d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599625093912:android:12db64c6f10b52be",
+        "android_client_info": {
+          "package_name": "ie.moses.thelonelyexpat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599625093912-paanpkk1nj6d41bt5jo9jnsq2ol5r16s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ie.moses.thelonelyexpat",
+            "certificate_hash": "182270aab12074468677ffa04591702396ae5a78"
+          }
+        },
+        {
+          "client_id": "599625093912-is8999mnahoqi19q723t9tuneejqeb80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRhXM-8pzFgmcoXzrqbv4-vLiiBsR754"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599625093912-is8999mnahoqi19q723t9tuneejqeb80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
